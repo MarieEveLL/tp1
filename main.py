@@ -1,6 +1,6 @@
 import click
 
-__version__= "0.1.0"
+__version__= "0.1.1 -SNAPSHOT"
 
 @click.command("version")
 def version():
